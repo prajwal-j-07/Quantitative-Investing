@@ -1,4 +1,4 @@
-# Algorithmic Trading in Python
+# Quantitative-Investing
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue) ![Build Status](https://img.shields.io/github/actions/workflow/status/<your-username>/Quantitative-Investing/ci.yml)
 
